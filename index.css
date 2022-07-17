@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+h1, h2 {
+    background-color: #CCCCCC;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid;
+}
